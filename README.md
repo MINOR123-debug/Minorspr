@@ -1,0 +1,2 @@
+# Minorspr
+help
